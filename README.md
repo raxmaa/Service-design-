@@ -1,2 +1,2 @@
 # Service-design-
-Stakeholder map 
+Stakeholder map - https://www.interaction-design.org/literature/article/map-the-stakeholders
